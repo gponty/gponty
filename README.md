@@ -1,3 +1,15 @@
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/gponty"><img width="495" height="195" alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=gponty&show_icons=true&theme=tokyonight" /></a>
+    </td>
+    <td>
+      <img width="317" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gponty&theme=tokyonight&layout=compact&langs_count=10" alt="gponty" />
+    </td>
+  </tr>
+</table>
+
 ### Hi there 👋
 
 <!--
