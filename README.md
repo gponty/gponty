@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/gponty"><img width="495" height="195" alt="Git Stats" src="https://github-readme-stats-six-delta-13.vercel.app/api?username=gponty&show_icons=true&theme=dracula&locale=fr&count_private=true" /></a>
+      <a href="https://github.com/gponty"><img width="495" height="195" alt="Git Stats" src="https://github-readme-stats-six-delta-13.vercel.app/api?username=gponty&show_icons=true&theme=dracula&locale=fr&count_private=true&rank_icon=github" /></a>
     </td>
     <td>
       <img width="317" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gponty&theme=dracula&layout=compact&langs_count=10&locale=fr&count_private=true" alt="gponty" />
